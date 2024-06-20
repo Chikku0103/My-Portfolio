@@ -30,10 +30,10 @@ To clone and run this application, you'll need Git and Node.js (which comes with
 
 ```bash
 # Clone this repository
-$ git clone [your-repo-link]
+$ git clone https://github.com/Chikku0103/My-Portfolio
 
 # Go into the repository
-$ cd [your-repo-name]
+$ cd MyProfile
 
 # Install dependencies
 $ npm install
