@@ -4,7 +4,7 @@
 Welcome to the repository for my personal portfolio website! This site is a comprehensive showcase of my skills, projects, and professional journey as a developer.
 
 
-[Make sure to replace `[https://chikku0103.github.io/My-Portfolio/#]`] and `[My Portfolio]`
+https://chikku0103.github.io/My-Portfolio/# and [My Portfolio]
 
 ## About the Project
 
