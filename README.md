@@ -1,10 +1,10 @@
-Certainly! Here's a template for your README file that you can customize for your portfolio site project:
-
----
 
 # Portfolio Website
 
 Welcome to the repository for my personal portfolio website! This site is a comprehensive showcase of my skills, projects, and professional journey as a developer.
+
+
+[Make sure to replace `[https://chikku0103.github.io/My-Portfolio/#]`] and `[My Portfolio]`
 
 ## About the Project
 
@@ -52,4 +52,3 @@ This project is open source and available under the [MIT License](LICENSE.md).
 
 ---
 
-[Make sure to replace `[your-repo-link]`](https://chikku0103.github.io/My-Portfolio/#) and `[your-repo-name]`My Portfolio
